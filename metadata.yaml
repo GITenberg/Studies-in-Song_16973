@@ -1,0 +1,30 @@
+_repo: Studies-in-Song_16973
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swinburne, Algernon Charles
+    aliases:
+    - Maitland, A. C. (Algernon Charles)
+    - Maitland, Thomas
+    birthdate: 1837
+    deathdate: 1909
+    gutenberg_agent_id: '832'
+    url: http://www.gutenberg.org/2009/agents/832
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Swinburne
+description: Die Vorlage enth. insgesamt 4 Werke.
+gutenberg_issued: '2005-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16973'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+title: Studies in Song
+url: http://www.gutenberg.org/ebooks/16973
